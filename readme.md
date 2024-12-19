@@ -1,4 +1,4 @@
-# Anthony Ngo
+# 👋 I'm Anthony Ngo
 
 > Open to Work
 
@@ -6,3 +6,11 @@
 - [📧 Email](mailto:anthony.ngoxd@outlook.com)
 - [📞 Phone](tel:12063494860)
 - [🔗 LinkedIn](https://linkedin.com/in/anthongo)
+
+# Education
+
+# Experience
+
+# Projects
+
+# Skills
