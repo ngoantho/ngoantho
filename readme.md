@@ -1,6 +1,6 @@
 # 👋 I'm Anthony Ngo
 
-> Open to Work
+> Actively Searching
 
 - [🏠 Home](https://ngoantho.github.io)
 - [📧 Email](mailto:anthony.ngoxd@outlook.com)
