@@ -1,8 +1,7 @@
-# 👋 I'm Anthony Ngo
+# 🙋‍♂️ I'm Anthony Ngo
 
-> Actively Searching
-
-- [🏠 Home](https://ngoantho.github.io)
-- [📧 Email](mailto:anthony.ngoxd@outlook.com)
-- [📞 Phone](tel:12063494860)
-- [🔗 LinkedIn](https://linkedin.com/in/anthongo)
+Visit https://ngoantho.github.io to see my portfolio
+- Experience
+- Projects
+- Education
+- Skills
