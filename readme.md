@@ -1,7 +1,3 @@
 # 🙋‍♂️ I'm Anthony Ngo
 
-Visit https://ngoantho.github.io to see my portfolio
-- Experience
-- Projects
-- Education
-- Skills
+**Actively looking for a job. Contact me at anthony.ngoxd@outlook.com for more information.**
