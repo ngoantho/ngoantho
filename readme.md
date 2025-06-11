@@ -5,3 +5,4 @@
 - GPU-accelerated BFS algorithm       -> https://github.com/ngoantho/cs5990_on-gpu_async_bfs
 - Survey platform with AI analysis    -> https://github.com/ngoantho/SurveySage
 - Transform an image with operations  -> https://github.com/ngoantho/image-processor
+- And many more...                    -> https://github.com/ngoantho?tab=repositories
