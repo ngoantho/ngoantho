@@ -1,5 +1,4 @@
 # Actively looking for a job. Contact me at anthony.ngoxd@outlook.com for more information.
-- Check out my repositories           -> https://github.com/ngoantho?tab=repositories
 - FieldFlow - survey platform with AI -> https://github.com/SU-MobileSoftwareDev-Group10/FieldFlow
 - Sound Generations Website Redesign  -> https://github.com/Sound-Generations-Capstone/wp-dev-env
 - Workout Planner built with Flutter  -> https://github.com/ngoantho/flutter-workout-app
