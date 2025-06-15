@@ -12,5 +12,6 @@
 # Testimonials
 "Anthony’s work was exceptional... and instrumental in the successful completion of several key projects used globally at Microsoft."
 — Jess Nault, Sr. Data Engineer, PTG/Aegis at Microsoft
+
 "Anthony exhibited an impressive combination of speed and accuracy... his SSIS package will be used for our NACHA compliance project."
 — Elizabeth Czarnecki, Sr. IT Developer, Florida Blue
