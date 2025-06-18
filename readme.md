@@ -1,7 +1,4 @@
 # Projects
-* FieldFlow, survey platform with AI
-  * Technology: Flutter
-  * [Source Code](https://github.com/SU-MobileSoftwareDev-Group10/FieldFlow)
 * Sound Generations Website Redesign
   * Technology: PHP, UI/UX
   * [Source Code](https://github.com/Sound-Generations-Capstone/wp-dev-env)
