@@ -15,6 +15,7 @@
 * GPU-accelerated BFS algorithm
   * Technology: CUDA
   * [Source Code](https://github.com/ngoantho/cs5990_on-gpu_async_bfs)
+  * [Paper with Results](https://www.overleaf.com/read/nndfvmttjpxp#a2c456)
 * Survey platform with AI analysis
   * Technology: Express, Angular, ChatGPT
   * [Source Code](https://github.com/ngoantho/SurveySage)
