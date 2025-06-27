@@ -2,7 +2,7 @@
 * Sound Generations Website Redesign
   * Technology: PHP, UI/UX
   * [Source Code](https://github.com/Sound-Generations-Capstone/wp-dev-env)
-  * [Hosted on Pantheon](https://v-sg-capstone.pantheonsite.io)
+  * [Hosted on Pantheon](https://dev-sg-capstone.pantheonsite.io)
 * Workout Recorder and Planner
   * Technology: Flutter
   * [Source Code](https://github.com/ngoantho/flutter-workout-app)
