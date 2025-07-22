@@ -35,8 +35,8 @@
 
 ### Jess Nault, Sr. Data Engineer at PTG/Aegis at Microsoft
 
-![People Tech Group LoR](LOR/People Tech Group LoR.png)
+![People Tech Group LoR](<LOR/People Tech Group LoR.png>)
 
 ### Elizabeth Czarnecki, Sr. IT Developer at Florida Blue
 
-![Florida Blue LoR](LOR/Florida Blue LoR.png)
+![Florida Blue LoR](<LOR/Florida Blue LoR.png>)
