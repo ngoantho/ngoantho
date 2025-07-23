@@ -2,6 +2,9 @@
 
 ## Projects
 
+- A collection of distributed systems projects
+  - Technology: Python, Bitcoin, Chord
+  - [Source Code](https://github.com/ngoantho/Distributed-Systems)
 - Field Flow, survey platform with AI
   - Technology: Flutter
   - [Source Code](https://github.com/SU-MobileSoftwareDev-Group10/FieldFlow)
