@@ -3,7 +3,7 @@
 ## Projects
 
 - A collection of distributed systems projects
-  - Technology: Python, Bitcoin, Chord
+  - Topics: Python, Bitcoin, Chord
   - [Source Code](https://github.com/ngoantho/Distributed-Systems)
 - Field Flow, survey platform with AI
   - Technology: Flutter
@@ -26,6 +26,7 @@
   - Technology: Express, Angular, ChatGPT
   - [Source Code](https://github.com/ngoantho/SurveySage)
   - [Hosted on Azure](https://surveysage.azurewebsites.net)
+  - Login ![](surveysage/login.png)
 - Transform an image with operations
   - Technology: Express, Sharp
   - [Source Code](https://github.com/ngoantho/image-processor)
@@ -33,6 +34,11 @@
   - Technology: Express, MongoDB
   - [Source Code](https://github.com/ngoantho/cs5200-address-searcher)
   - [Hosted on Azure](https://address-searcher.azurewebsites.net)
+- Hacker News Clone, built with React and Apollo
+  - [Source Code](https://github.com/ngoantho/react-apollo-hackernews)
+  - [Hosted on Google Cloud](https://react-apollo-hackernews-349911687871.us-west1.run.app/)
+  - Client ![](HN%20clone/client.png)
+  - Server ![](HN%20clone/server.png)
 
 ## Letters of Recommendation
 
